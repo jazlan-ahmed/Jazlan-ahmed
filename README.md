@@ -9,7 +9,8 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/jazlan-ahmed-46029636b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jazlan-ahmed-46029636b/)  
+
 
 ---
 
@@ -27,6 +28,6 @@
 
 ### 📈 GitHub Stats
 
-![Jazlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jazlanahmed&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazlanahmed&layout=compact&theme=github_dark)
+##![Jazlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jazlanahmed&show_icons=true&theme=github_dark)
+##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazlanahmed&layout=compact&theme=github_dark)
 
