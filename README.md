@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jazlan</h1>
+<h1 align="center">Hello, I'm Jazlan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
 - 🌱 I’m currently learning: Ansible, Kubernetes  
@@ -26,8 +26,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-##![Jazlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jazlanahmed&show_icons=true&theme=github_dark)
-##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazlanahmed&layout=compact&theme=github_dark)
 
