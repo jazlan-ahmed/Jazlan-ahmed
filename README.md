@@ -40,7 +40,7 @@ A passionate DevOps Engineer from Karachi Sindh, Pakistan
 
 ---
 
-### Sikander Ali's GitHub Stats:
+### Jazlan Ahmed GitHub Stats:
 
 [![Sikander Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jazlan-ahmed&show_icons=true&count_private=true&hide_border=true&theme=dark&rank_icon=percentile)](https://github.com/jazlan-ahmed)
 
